@@ -83,7 +83,7 @@ $(function (){
     }
     else{
 
-        console.log("あいこ")
+        console.log("ふおおおおおおおおお")
 
     }
 
