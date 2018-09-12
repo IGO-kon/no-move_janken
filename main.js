@@ -19,7 +19,7 @@ $(function (){
     
     if (a==0) {
 
-        console.log("あいこ")
+        console.log("ぉぉぉぉぉぉお")
 
     }  else if (a==1){
         console.log("勝ち")
